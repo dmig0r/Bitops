@@ -1,0 +1,3 @@
+/Users/dmitrii/CLionProjects/Bitops/cmake-build-debug/CMakeFiles/Bitops.dir
+/Users/dmitrii/CLionProjects/Bitops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitrii/CLionProjects/Bitops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
